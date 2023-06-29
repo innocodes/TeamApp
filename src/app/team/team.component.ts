@@ -9,11 +9,14 @@ export class TeamComponent {
 
   @Input() team: string[] = [];
   @Input() index = 0; 
+  currentDate: Date = new Date();
 
   constructor() {}
 
   ngOnInit(): void {
 
   }
+
+  // Pipes are use for transforming data
 
 }
