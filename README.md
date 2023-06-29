@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## About Project
+
 This project provides a quick introduction to Angular.
 Some concepts covered include:
 i. Event Handling
@@ -10,6 +11,9 @@ ii. Directives (Structural and Attributes)
 iii. Data Passing
 iv. Components, and
 v. Piping
+
+The project implements Semantic UI for appealing look and clean interface
+Visit [Semantic UI](https://semantic-ui.com/).
 
 You can find more details on running / debugging the project below:
 
